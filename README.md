@@ -23,7 +23,7 @@
     e no final a Equipe do Telegram
     excluiu sua conta?
     Estarei rolando no chão rindo de você.
-    Sim! você ouviu direito.
+    Sim! você ouviu direito. Isso mesmo!
 /**
 ```
 
